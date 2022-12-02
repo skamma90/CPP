@@ -13,6 +13,6 @@ int main()
     if (length == breadth)
         cout << "It is a square.";
     else
-        cout << "It is not a square";
+        cout << "It is not a square.";
     return 0;
 }
